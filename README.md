@@ -18,6 +18,4 @@ Excel → Excel file
 PowerBI → Dashboard file
 Dataset → Raw data
 Screenshots → Dashboard images
-## Author
-Shaukat Ali
-Aspiring Data Analyst
+Author: Shaukat Ali | Data Analyst | 2026
