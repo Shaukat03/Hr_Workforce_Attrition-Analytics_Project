@@ -13,10 +13,10 @@ Analyzed HR Workforce Attrition Analytics project using Excel, SQL, and Power BI
 - Job Satisfaction Analysis
 - Education-wise Attrition
 ## Project Structure
-SQL → All queries
-Excel → Excel file
-PowerBI → Dashboard file
-Dataset → Raw data
-Screenshots → Dashboard images
+- SQL → All queries
+- Excel → Excel file
+- PowerBI → Dashboard file
+- Dataset → Raw data
+- Screenshots → Dashboard images
 
-Author: Shaukat Ali | Data Analyst | 2026
+- Author: Shaukat Ali | Data Analyst | 2026
