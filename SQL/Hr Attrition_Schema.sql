@@ -1,0 +1,26 @@
+CREATE TABLE Employees (
+    employee_id INT PRIMARY KEY,
+    age INT,
+    attrition VARCHAR(20),
+    business_travel VARCHAR(50),
+    department VARCHAR(100),
+    distance_from_home INT,
+    education varchar(50),
+    environment_satisfaction INT,
+    gender VARCHAR(10),
+    salary NUMERIC(12,2),
+    job_involvement INT,
+    job_level INT,
+    job_role VARCHAR(100),
+    job_satisfaction INT,
+    marital_status VARCHAR(20),
+    number_of_companies_worked_previously INT,
+    overtime VARCHAR(10),
+    salary_hike_in_percent INT,
+    total_working_years_experience INT,
+    work_life_balance INT,
+    no_of_years_worked_at_current_company INT,
+    no_of_years_in_current_role INT,
+    years_since_last_promotion INT
+);
+SELECT*FROM Employees
