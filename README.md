@@ -7,7 +7,7 @@ Analyzed HR Workforce Attrition Analytics project using Excel, SQL, and Power BI
 - Excel
 - SQL
 - Power BI
-- 
+  
 ## Key Insights
 - Attrition Rate Analysis
 - Department-wise Attrition
@@ -15,7 +15,7 @@ Analyzed HR Workforce Attrition Analytics project using Excel, SQL, and Power BI
 - Age Group Analysis
 - Job Satisfaction Analysis
 - Education-wise Attrition
-- 
+  
 ## Project Structure
 - SQL → All queries
 - Excel → Excel file
